@@ -1,3 +1,5 @@
+// This program calculates the area of a cylinder.
+
 package calculateareacylinder;
 
 import java.util.Scanner;
