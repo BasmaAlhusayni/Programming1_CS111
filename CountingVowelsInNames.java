@@ -1,3 +1,5 @@
+// This program calculates the number of vowels in all names.
+
 package countingvowelsinnames;
 
 import java.util.Scanner;
